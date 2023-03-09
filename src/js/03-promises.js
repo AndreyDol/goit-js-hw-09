@@ -24,7 +24,7 @@ function createPromise(position, delay) {
   return promise;
 }
 
-// Додаємо слухача до кнопки
+// Додаємо слухача до  кнопки submit
 refs.submit.addEventListener('click', onClick);
 
 // колбек-функція
